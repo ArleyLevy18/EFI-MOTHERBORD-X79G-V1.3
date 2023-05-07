@@ -6,13 +6,9 @@ OPENCORE VERSION: 0.9.1
 
 |     PART      |     MODEL     |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-SYSTEM SPECS:
-XEON E5 2630V2
-MOTHERBOARD X79G V1.3
-16GB RAM ECC 1333 mhz
-SSD NVME ADATA 128GB
-HDD TOSHIBA 1TB
-RX 560 KLLISRE
+| CPU  | Content Cell  |
+| MOTHERBOARD | X79G V1.3 |
+| MEMORY | 16GB RAM ECC 1333 mhz  |
+| STORAGE | SSD NVME ADATA 128GB; HDD TOSHIBA 1TB  |
+| PSU| GAMEMAX GM 500 |
+| GRAPHICS| RX 560 KLLISRE |
