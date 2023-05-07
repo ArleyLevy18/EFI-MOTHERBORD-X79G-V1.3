@@ -4,6 +4,11 @@ EFI FOR MOTHERBOARD X79G V1.3
 
 OPENCORE VERSION: 0.9.1
 
+|     PART      |     MODEL     |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 SYSTEM SPECS:
 XEON E5 2630V2
 MOTHERBOARD X79G V1.3
