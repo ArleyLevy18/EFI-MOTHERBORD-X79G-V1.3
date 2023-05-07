@@ -1,6 +1,6 @@
 # EFI MOTHERBORD X79G V1.3
 
-Suport for macOS Big Sur, Monterey, **perhaps**  Monterey
+Suport for macOS Big Sur, Monterey, **perhaps** Ventura
 
 'OPENCORE VERSION: 0.9.1'
 
