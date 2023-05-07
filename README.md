@@ -6,9 +6,11 @@ OPENCORE VERSION: 0.9.1
 
 |     PART      |     MODEL     |
 | ------------- | ------------- |
-| CPU  | Content Cell  |
+| CPU  | XEON E5 2630V2   |
 | MOTHERBOARD | X79G V1.3 |
 | MEMORY | 16GB RAM ECC 1333 mhz  |
 | STORAGE | SSD NVME ADATA 128GB; HDD TOSHIBA 1TB  |
 | PSU| GAMEMAX GM 500 |
 | GRAPHICS| RX 560 KLLISRE |
+
+![Screen Shot 2023-05-07 at 07 54 01](https://user-images.githubusercontent.com/132818141/236673374-6797c261-0f40-4b29-81b4-cff75a4e4719.png)
