@@ -13,4 +13,6 @@ OPENCORE VERSION: 0.9.1
 | PSU| GAMEMAX GM 500 |
 | GRAPHICS| RX 560 KLLISRE |
 
-![Screen Shot 2023-05-07 at 07 54 01](https://user-images.githubusercontent.com/132818141/236673374-6797c261-0f40-4b29-81b4-cff75a4e4719.png)
+# About this Mac
+
+![Screen Shot 2023-05-07 at 07 58 36](https://user-images.githubusercontent.com/132818141/236673426-992ed083-b8fb-44a6-b9bd-338eaea25887.png)
