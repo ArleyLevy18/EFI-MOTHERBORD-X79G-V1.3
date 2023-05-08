@@ -21,4 +21,11 @@ Suport for macOS Big Sur, Monterey, **perhaps** Ventura
 
 ![Screen Shot 2023-05-07 at 07 57 21](https://user-images.githubusercontent.com/132818141/236896585-62833f0d-3c8b-417c-89eb-0e023497c6ab.png)
 
+# IMPORTANT
+
+You will have to generate the SMBIOS.
+
+https://github.com/corpnewt/GenSMBIOS
+
+![Screen Shot 2023-05-08 at 15 13 53](https://user-images.githubusercontent.com/132818141/236900033-5f581a59-bf9b-444d-95be-4e1a6e14daa1.png)
 
