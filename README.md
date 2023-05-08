@@ -27,5 +27,6 @@ You will have to generate the SMBIOS.
 
 https://github.com/corpnewt/GenSMBIOS
 
-![Screen Shot 2023-05-08 at 15 13 53](https://user-images.githubusercontent.com/132818141/236900033-5f581a59-bf9b-444d-95be-4e1a6e14daa1.png)
+![Screen Shot 2023-05-08 at 15 14 19](https://user-images.githubusercontent.com/132818141/236900145-7ac79c1c-6a21-40df-bbe3-9f3d39e755c5.png)
+
 
