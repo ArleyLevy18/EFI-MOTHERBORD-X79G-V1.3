@@ -1,6 +1,6 @@
 
 # HACKINTOSH
-# *EFI MOTHERBORD X79G V1.3
+# *EFI MOTHERBORD X79G V1.3*
 
 Suport for macOS Big Sur, Monterey, **perhaps** Ventura
 
